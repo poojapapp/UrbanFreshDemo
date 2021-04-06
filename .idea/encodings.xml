@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fitternity/urbanfresh/activity/BaseActivity.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fitternity/urbanfresh/interfaces/InterfaceConstants.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fitternity/urbanfresh/retrofit/RetroClientInstance.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fitternity/urbanfresh/retrofit/RetrofitCallback.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fitternity/urbanfresh/retrofit/apiInterfaces/ApiInterface.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fitternity/urbanfresh/sharedpreferences/SharedPreferencesManager.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fitternity/urbanfresh/utilities/InternetUtilities.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fitternity/urbanfresh/utilities/KEY.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fitternity/urbanfresh/utilities/ProgressDialogUtility.java" charset="windows-1251" />
+  </component>
+</project>
